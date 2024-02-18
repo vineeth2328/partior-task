@@ -1,3 +1,6 @@
+
+![image](Images/quorum.jpeg?raw=true "Title")
+
 Transcation flow in quorum: 
 
    - A user or application initiates a transaction by creating and signing a transaction request.
