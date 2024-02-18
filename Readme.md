@@ -22,3 +22,20 @@
 ![image](Images/geth-attach.PNG?raw=true "Title")
 
 we can use geth attach command to connect nodes 
+
+### Inspecting nodes/peers information
+![image](Images/node-info.PNG?raw=true "Title")
+
+### Inspecting chain, block and transaction information
+Block info:
+![image](Images/blockinfo.PNG?raw=true "Title")
+Transcation info:
+![image](Images/txdetails.PNG?raw=true "Title")
+
+### Creating wallets / accounts and transferring Ether between accounts 
+New wallet creation:
+![image](Images/account-create.PNG?raw=true "Title")
+
+Amount transfer: 
+![image](Images/amount-transfer.PNG?raw=true "Title")
+
