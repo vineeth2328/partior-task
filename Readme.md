@@ -18,3 +18,7 @@
    - The final state of the blockchain is updated with the new block, and the transaction is considered finalized.
    - The user or client who initiated the transaction receives a confirmation once it is successfully added to the blockchain.
 
+### how to use GETH to invoke JSON RPC API?
+![image](Images/geth-attach.PNG?raw=true "Title")
+
+we can use geth attach command to connect nodes 
