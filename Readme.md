@@ -1,9 +1,7 @@
 
-T ### ranscation flow in quorum: 
+### Transcation flow in quorum: 
 
 ![image](Images/quorum.jpeg?raw=true "Title")
-
-
 
    - A user or application initiates a transaction by creating and signing a transaction request.
    - The transaction request includes details such as the sender's address, recipient's address, amount, and any other relevant data.
@@ -19,3 +17,4 @@ T ### ranscation flow in quorum:
    - If the transaction involves private data, the Private State Manager updates the private state with the relevant information.
    - The final state of the blockchain is updated with the new block, and the transaction is considered finalized.
    - The user or client who initiated the transaction receives a confirmation once it is successfully added to the blockchain.
+
